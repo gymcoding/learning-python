@@ -25,4 +25,4 @@
 ## License & Copyright
 
 **MIT License** <br>
-Copyright © 2020 [SoRyong Han](https://joshua1988.github.io/)
+Copyright © 2020 [GYMCODING](https://github.com/gymcoding/)
